@@ -1,0 +1,6 @@
+title: Emlyn
+description: A small corner of the web.
+theme: minima
+header_pages:
+  - about.md
+  - projects.md
